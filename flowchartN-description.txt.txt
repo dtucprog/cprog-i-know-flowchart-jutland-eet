@@ -1,0 +1,1 @@
+START -> decide, go for a walk -> Input, outside_temperatur -> decide, temperatur < 0 => (Yes), stay home -> END else (No), go for a walk -> return home -> stay home -> END
