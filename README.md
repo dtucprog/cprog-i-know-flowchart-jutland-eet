@@ -24,9 +24,6 @@
 ## Flowchart 9
 ![](flowchart8.svg)
 
-## Flowchart 9
-![](flowchart9.svg)
-
 ## Flowchart 10
 ![](flowchart10.svg)
 
